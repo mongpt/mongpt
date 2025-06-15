@@ -6,7 +6,7 @@ I'm an **Electronics and Embedded Engineer** specializing in PCB design, microco
 - 🔭 **Working on**: Smart IoT Systems and Electronic gadgets.
 - 🌱 **Learning**: Microcontrollers, Embedded Linux (Yocto Project), Robot Framework, MQTT, FreeRTOS, and cloud-based IoT architectures.
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/mong-phan-124254253)**
-- 🌐 **Portfolio**: Coming soon at [mongpt.github.io](https://mongpt.github.io) 🖥️
+- 🌐 **Portfolio**: [mongpt.github.io](https://mongpt.github.io) 🖥️
 - ⚡ **Fun fact**: I design custom PCBs and 3D-printed enclosures for fun!
 
 ## 🛠 Tech Stack
