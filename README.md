@@ -78,12 +78,12 @@ I'm an **Electronics and Embedded Engineer** specializing in PCB design, microco
 ## 🎓 Education
 
 ![B.Eng. IT](https://img.shields.io/badge/B.Eng.%20IT-FF5722)![](https://img.shields.io/badge/Metropolia%20UAS-blue)![](https://img.shields.io/badge/2025-2C3E50)![](https://img.shields.io/badge/GPA:%204.95%20/%205.0-brightgreen)![](https://img.shields.io/badge/Specialization:%20Smart%20IoT%20Systems-264DE4)   
-![B.Eng. Electronics](https://img.shields.io/badge/B.Eng.%20Electronics-FF5722)![](https://img.shields.io/badge/Cantho%20University-blue)![](https://img.shields.io/badge/2007-2C3E50)![](https://img.shields.io/badge/GPA:%207.46%20/%2010.0-brightgreen)![](https://img.shields.io/badge/Specialization:%20Automation%20and%20Control%20Systems-264DE4)  
+![B.Eng. Electronics](https://img.shields.io/badge/B.Eng.%20Electronics-FF5722)![](https://img.shields.io/badge/Can%20Tho%20University-blue)![](https://img.shields.io/badge/2007-2C3E50)![](https://img.shields.io/badge/GPA:%207.46%20/%2010.0-brightgreen)![](https://img.shields.io/badge/Specialization:%20Automation%20and%20Control%20Systems-264DE4)  
 
 ## 🗣 Languages
 
 ![Vietnamese](https://img.shields.io/badge/Vietnamese-Native%20Proficiency-brightgreen)  
-![English](https://img.shields.io/badge/English-Professional%20Proficiency-yellow)  
+![English](https://img.shields.io/badge/English-Professional%20Proficiency-blue)  
 ![Finnish](https://img.shields.io/badge/Finnish-Basic%20Proficiency-lightgrey)
 
 
