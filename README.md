@@ -10,62 +10,69 @@ I'm an **Electronics and Embedded Engineer** specializing in PCB design, microco
 - ⚡ **Fun fact**: I design custom PCBs and 3D-printed enclosures for fun!
 
 ## 🛠 Tech Stack
-
+#### 💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-802000?logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-009900?logo=python&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-FF5722?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264DE4?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Node-RED](https://img.shields.io/badge/Node--RED-802000?logo=node-red&logoColor=white)
-![Express](https://img.shields.io/badge/Express-009900?logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2C3E50?logo=flask&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-FF5722?logo=mariadb&logoColor=white)  
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-009900?logo=linux&logoColor=white)
-![Yocto Project](https://img.shields.io/badge/Yocto%20Project-2C3E50?logo=yocto&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+#### 🧰 Frameworks & Libraries  
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-FF5722?logo=freertos&logoColor=white)
 ![pyRTOS](https://img.shields.io/badge/pyRTOS-264DE4?logo=python&logoColor=white)
-![Bare-Metal](https://img.shields.io/badge/Bare--Metal-F7DF1E?logo=microchip&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-00599C?logo=eclipse-mosquitto&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-802000?logo=robotframework&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-660066?logo=jenkins&logoColor=white)  
+![Node-RED](https://img.shields.io/badge/Node--RED-802000?logo=node-red&logoColor=white)
+![Express](https://img.shields.io/badge/Express-009900?logo=express&logoColor=white)
+#### 🖥️ Operating Systems & Embedded Platforms  
+![Bare-Metal](https://img.shields.io/badge/Bare--Metal-F7DF1E?logo=microchip&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-009900?logo=linux&logoColor=white)
+![Yocto Project](https://img.shields.io/badge/Yocto%20Project-2C3E50?logo=yocto&logoColor=white)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-2C3E50?logo=raspberrypi&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-FF5722?logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-264DE4?logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-F7DF1E?logo=espressif&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-00599C?logo=atmel&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-802000?logo=stmicroelectronics&logoColor=white)
-![PSoC](https://img.shields.io/badge/PSoC-660066?logoColor=white)  
-![WebSocket](https://img.shields.io/badge/WebSocket-FF5722?logo=websocket&logoColor=white)
-![HTTP/RESTful](https://img.shields.io/badge/HTTP%2FRESTful-264DE4?logo=http&logoColor=white)
+![PSoC](https://img.shields.io/badge/PSoC-660066?logoColor=white)
+#### 🔌 Communication Protocols  
 ![SPI](https://img.shields.io/badge/SPI-F7DF1E?logo=spi&logoColor=white)
 ![I²C](https://img.shields.io/badge/I%C2%B2C-00599C?logo=i2c&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-802000?logo=serial-port&logoColor=white)
 ![BLE](https://img.shields.io/badge/BLE-660066?logo=bluetooth&logoColor=white)
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-009900?logo=wifi&logoColor=white)
 ![Modbus RTU/TCP](https://img.shields.io/badge/Modbus%20RTU%2FTCP-2C3E50?logo=modbus&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-FF5722?logo=wifi&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-264DE4?logo=docker&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-FF5722?logo=wifi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-FF5722?logo=websocket&logoColor=white)
+![HTTP/RESTful](https://img.shields.io/badge/HTTP%2FRESTful-264DE4?logo=http&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-00599C?logo=eclipse-mosquitto&logoColor=white)
+#### ⚙️ DevOps & Tools  
 ![Git](https://img.shields.io/badge/Git-F7DF1E?logo=github-actions&logoColor=white)
 ![Gitlab CI/CD](https://img.shields.io/badge/Gitlab%20CI/CD-00599C?logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-660066?logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-264DE4?logo=docker&logoColor=white)
 ![Microsoft Planner](https://img.shields.io/badge/Microsoft%20Planner-802000?logo=microsoft&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-660066?logo=scrum&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-009900?logo=scrum&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-009900?logo=scrum&logoColor=white)
+#### 🗄️ Databases & Storage  
+![Flask](https://img.shields.io/badge/Flask-2C3E50?logo=flask&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-FF5722?logo=mariadb&logoColor=white)
+#### 🛠️ Hardware & Electronics Design  
 ![KiCad](https://img.shields.io/badge/KiCad-F7DF1E?logo=kicad&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-00599C?logo=easyeda&logoColor=white)
 ![OrCAD](https://img.shields.io/badge/OrCAD-802000?logo=orcad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-660066?logo=proteus&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-009900?logo=analogdevices&logoColor=white)  
+![LTspice](https://img.shields.io/badge/LTspice-009900?logo=analogdevices&logoColor=white)
 ![Soldering](https://img.shields.io/badge/Soldering-00599C?logo=soldering-iron&logoColor=white)
 ![3D Modeling](https://img.shields.io/badge/3D%20Modeling-802000?logo=autodesk&logoColor=white)
+#### 🔍 Instrumentation & Debugging Tools  
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-660066?logo=tektronix&logoColor=white)
 ![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-009900?logo=saleae&logoColor=white)
 ![DMM](https://img.shields.io/badge/DMM_(Digital_Multimeter)-2C3E50)
 ![Signal Generator](https://img.shields.io/badge/Signal_Generator-FF5722)
 ![Power Supplies](https://img.shields.io/badge/Power_Supplies-264DE4)
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 | Project | Description |
 |--------|-------------|
